@@ -7,7 +7,6 @@ Soy un desarrollador de software apasionado por la tecnología y la innovación.
 - **Lenguajes:** Python, JavaScript, HTML, CSS
 - **Frameworks:** Django, Express ,React, Vue,
 - **Bases de datos:** MySQL, PostgresSQL, MongoDB
-- 
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=GilsonPonce)
 
